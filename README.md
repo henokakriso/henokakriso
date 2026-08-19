@@ -3,13 +3,16 @@
      Palette: near-black #0A0E14 · charcoal #10151D · accent RED #EF4444
      SVG assets served via jsDelivr (cdn.jsdelivr.net/gh/user/repo@main)
      because GitHub does not render repo-owned SVGs inside <img>.
-     CONFIGURABLE LINKS — replace the placeholders below:
-       1) WEBSITE_URL  → your website
-       2) LINKEDIN_URL → your LinkedIn profile
-       3) EMAIL_ADDR   → public contact email
+     CONFIGURABLE LINKS — replace the placeholder below:
+       1) EMAIL_ADDR   → public contact email
      ============================================================ -->
 
 <div align="center">
+
+<!-- JOINING GITHUB — REAL DATE FROM THE API -->
+<code style="font-size:10px;letter-spacing:3px;color:#64748B">JOINED GITHUB — FEBRUARY 23, 2026 · 10:46:48 AM · CHINA STANDARD TIME (UTC+8)</code>
+
+<br/>
 
 <!-- HERO IMAGE — ANIMATED "SERGIO" OVERLAY -->
 <a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg">
@@ -46,8 +49,13 @@ transparency, cybersecurity, intelligence and robotics.
 
 <br/>
 
-<!-- PROJECT TILES — COMPACT GRID -->
-<p style="font-family:monospace;letter-spacing:3px;color:#64748B;font-size:11px">PROJECT ARWE — CLICK TO OPEN</p>
+<!-- PROJECT NETWORK MAP -->
+<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/arwe/network.svg">
+  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/arwe/network.svg"
+       alt="PROJECT ARWE — SYSTEM NETWORK" style="max-width:100%;border-radius:16px"/>
+</a>
+
+<p style="font-family:monospace;letter-spacing:3px;color:#64748B;font-size:11px">PROJECT ARWE — CLICK A PROJECT TO OPEN</p>
 
 <br/>
 
@@ -69,29 +77,34 @@ transparency, cybersecurity, intelligence and robotics.
 <br/>
 
 <!-- LIVE STATUS -->
-<h2 style="letter-spacing:8px;font-size:22px">GITHUB // SYSTEM STATUS</h2>
-<p style="color:#8B98A5;font-family:monospace;letter-spacing:2px;font-size:11px">REAL DATA FROM THE GITHUB API</p>
+<h2 style="letter-spacing:8px;font-size:18px;color:#64748B">GITHUB // SYSTEM STATUS</h2>
+
+<h1 style="color:#EF4444;font-family:monospace;font-size:48px;letter-spacing:12px;margin:4px 0">REAL DATA FROM THE GITHUB API</h1>
 
 <a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/system-status.svg">
   <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/system-status.svg"
        alt="GitHub system status" style="max-width:100%;border-radius:16px"/>
 </a>
 
-<table role="presentation">
-<tr>
-<td><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhenokakriso&query=public_repos&label=REPOSITORIES&style=for-the-badge&color=EF4444&labelColor=10151D" alt="Repositories"/></td>
-<td><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhenokakriso&query=followers&label=FOLLOWERS&style=for-the-badge&color=EF4444&labelColor=10151D" alt="Followers"/></td>
-<td><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhenokakriso&query=following&label=FOLLOWING&style=for-the-badge&color=EF4444&labelColor=10151D" alt="Following"/></td>
-</tr>
-</table>
+<br/>
+
+<h1 style="color:#EF4444;font-family:monospace;font-size:64px;margin:18px 0 0">159</h1>
+<p style="font-family:monospace;letter-spacing:4px;color:#8B98A5;font-size:12px;margin:0">CONTRIBUTIONS IN THE LAST YEAR</p>
+
+<br/>
+
+<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/contributions.svg">
+  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/contributions.svg"
+       alt="Contributions heatmap — last year" style="max-width:100%;border-radius:16px"/>
+</a>
 
 <br/>
 
 <!-- CONTACT -->
 <p style="font-size:12px">
 <a href="https://github.com/henokakriso"><code style="color:#EF4444">GitHub</code></a> ·
-<a href="WEBSITE_URL"><code style="color:#EF4444">Website</code></a> ·
-<a href="LINKEDIN_URL"><code style="color:#EF4444">LinkedIn</code></a> ·
+<a href="https://henokakriso.com"><code style="color:#EF4444">Website</code></a> ·
+<a href="https://www.linkedin.com/in/henokakriso"><code style="color:#EF4444">LinkedIn</code></a> ·
 <a href="mailto:EMAIL_ADDR"><code style="color:#EF4444">Email</code></a>
 </p>
 
