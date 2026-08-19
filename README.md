@@ -9,11 +9,6 @@
 
 <div align="center">
 
-<!-- JOINING GITHUB — REAL DATE FROM THE API -->
-<code style="font-size:10px;letter-spacing:3px;color:#64748B">JOINED GITHUB — FEBRUARY 23, 2026 · 10:46:48 AM · CHINA STANDARD TIME (UTC+8)</code>
-
-<br/>
-
 <!-- HERO IMAGE — ANIMATED "SERGIO" OVERLAY -->
 <a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg">
   <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg"
