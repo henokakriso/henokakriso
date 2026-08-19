@@ -1,7 +1,7 @@
 <!-- ============================================================
-     PROFILE // HENOK AKRISO (SERGIO)
+     PROFILE // HENOK AKRISO (SERGIO) — COMPACT DASHBOARD
      Palette: near-black #0A0E14 · charcoal #10151D · accent RED #EF4444
-     SVG assets are served via jsDelivr (cdn.jsdelivr.net/gh/user/repo@main)
+     SVG assets served via jsDelivr (cdn.jsdelivr.net/gh/user/repo@main)
      because GitHub does not render repo-owned SVGs inside <img>.
      CONFIGURABLE LINKS — replace the placeholders below:
        1) WEBSITE_URL  → your website
@@ -11,15 +11,13 @@
 
 <div align="center">
 
-<!-- LANDING HERO IMAGE -->
+<!-- HERO IMAGE -->
 <a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing.jpeg">
   <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing.jpeg"
        alt="Landing" style="max-width:100%;border-radius:16px"/>
 </a>
 
-<br/>
-
-<!-- LADYBUG FLIGHT ANIMATION -->
+<!-- LADYBUG FLIGHT BANNER -->
 <a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/ladybug.svg">
   <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/ladybug.svg"
        alt="Ladybug flying across the profile" style="max-width:100%"/>
@@ -27,8 +25,8 @@
 
 <br/>
 
-<h1 style="font-size:44px;letter-spacing:6px;margin:10px 0 2px">HENOK AKRISO</h1>
-<code style="font-size:15px;letter-spacing:8px;color:#8B98A5">SERGIO</code>
+<h1 style="font-size:40px;letter-spacing:6px;margin:8px 0 2px">HENOK AKRISO</h1>
+<code style="font-size:14px;letter-spacing:8px;color:#8B98A5">SERGIO</code>
 
 <br/>
 
@@ -36,54 +34,48 @@
 COMPUTER SCIENTIST &nbsp;•&nbsp; C PROGRAMMER &nbsp;•&nbsp; FOUNDER
 </p>
 
-<br/>
-
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=640&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE;INTERCONNECTED+TECHNOLOGY+FOR+ETHIOPIA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=640&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE;INTERCONNECTED+TECHNOLOGY+FOR+ETHIOPIA"
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=600&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=600&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE"
        alt="I BUILD SYSTEMS, NOT JUST SOFTWARE"/>
 </a>
 
-<p style="max-width:600px;color:#8B98A5;margin:14px auto">
+<p style="max-width:540px;color:#8B98A5;margin:8px auto">
 Building interconnected technology systems for education, government, identity,
 transparency, cybersecurity, intelligence and robotics.
 </p>
 
-<!-- CTA -->
-<a href="https://github.com/henokakriso/Govyx">
-  <img src="https://img.shields.io/badge/EXPLORE_ARWE-10151D?style=for-the-badge&logo=arweave&logoColor=EF4444&labelColor=10151D&color=EF4444" alt="Explore ARWE"/>
-</a>&nbsp;
-<a href="https://github.com/henokakriso?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_PROJECTS-10151D?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=10151D&color=EF4444" alt="View projects"/>
-</a>&nbsp;
-<a href="https://github.com/henokakriso">
-  <img src="https://img.shields.io/badge/GITHUB-0A0E14?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=10151D&color=8B98A5" alt="GitHub"/>
-</a>
+<br/>
 
-<br/><br/>
-
-<!-- SUBTLE PROFILE METADATA -->
-<code style="font-size:11px;color:#64748B;letter-spacing:1.5px">PROFILE CREATED — FEBRUARY 23, 2026 · 10:46:48 AM (CHINA STANDARD TIME)</code>
+<!-- PROJECT TILES — COMPACT GRID -->
+<p style="font-family:monospace;letter-spacing:3px;color:#64748B;font-size:11px">PROJECT ARWE — CLICK TO OPEN</p>
 
 <br/>
 
-</div>
-
-<!-- ============ GITHUB // SYSTEM STATUS ============ -->
-<div align="center">
-
-<h2 style="letter-spacing:8px">GITHUB // SYSTEM STATUS</h2>
-<p style="color:#8B98A5;font-family:monospace;letter-spacing:2px;font-size:12px">
-REAL DATA FROM THE GITHUB API — AUTO-REFRESHED WEEKLY BY GITHUB ACTIONS
-</p>
+<table role="presentation">
+<tr>
+<td><a href="https://github.com/henokakriso/Govyx"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/govyx.svg" alt="GOVYX" style="max-width:100%"/></a></td>
+<td><a href="https://github.com/henokakriso/Edunex"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/edunex.svg" alt="EDUNEX" style="max-width:100%"/></a></td>
+<td><a href="https://github.com/henokakriso/Locify"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/locify.svg" alt="LOCIFY" style="max-width:100%"/></a></td>
+<td><a href="https://github.com/henokakriso/TerraChain"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/terrachain.svg" alt="TERRACHAIN" style="max-width:100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/henokakriso/Bilen"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/bilen.svg" alt="BILEN" style="max-width:100%"/></a></td>
+<td><a href="https://github.com/henokakriso/Kidane"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/kidane.svg" alt="KIDANE" style="max-width:100%"/></a></td>
+<td><a href="https://github.com/henokakriso/Ozyn"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/ozayn.svg" alt="OZAYN" style="max-width:100%"/></a></td>
+<td><a href="https://github.com/henokakriso/Canivox"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/canivox.svg" alt="CANIVOX" style="max-width:100%"/></a></td>
+</tr>
+</table>
 
 <br/>
+
+<!-- LIVE STATUS -->
+<h2 style="letter-spacing:8px;font-size:22px">GITHUB // SYSTEM STATUS</h2>
+<p style="color:#8B98A5;font-family:monospace;letter-spacing:2px;font-size:11px">REAL DATA FROM THE GITHUB API</p>
 
 <a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/system-status.svg">
   <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/system-status.svg"
        alt="GitHub system status" style="max-width:100%;border-radius:16px"/>
 </a>
-
-<br/><br/>
 
 <table role="presentation">
 <tr>
@@ -95,12 +87,8 @@ REAL DATA FROM THE GITHUB API — AUTO-REFRESHED WEEKLY BY GITHUB ACTIONS
 
 <br/>
 
-</div>
-
-<!-- ============ CONTACT ============ -->
-<div align="center">
-
-<p style="font-size:13px">
+<!-- CONTACT -->
+<p style="font-size:12px">
 <a href="https://github.com/henokakriso"><code style="color:#EF4444">GitHub</code></a> ·
 <a href="WEBSITE_URL"><code style="color:#EF4444">Website</code></a> ·
 <a href="LINKEDIN_URL"><code style="color:#EF4444">LinkedIn</code></a> ·
