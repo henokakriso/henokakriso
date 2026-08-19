@@ -98,16 +98,4 @@ transparency, cybersecurity, intelligence and robotics.
        alt="Contributions heatmap — last year" style="max-width:100%;border-radius:16px"/>
 </a>
 
-<br/>
-
-<!-- CONTACT -->
-<p style="font-size:12px">
-<a href="https://github.com/henokakriso"><code style="color:#EF4444">GitHub</code></a> ·
-<a href="https://henokakriso.com"><code style="color:#EF4444">Website</code></a> ·
-<a href="https://www.linkedin.com/in/henokakriso"><code style="color:#EF4444">LinkedIn</code></a> ·
-<a href="mailto:EMAIL_ADDR"><code style="color:#EF4444">Email</code></a>
-</p>
-
-<code style="font-size:10px;color:#64748B">© 2026 HENOK AKRISO · PROJECT ARWE · ARWE-PSL v1.0</code>
-
 </div>
