@@ -9,9 +9,9 @@
 
 <div align="center">
 
-<!-- HERO IMAGE — ANIMATED "SERGIO" OVERLAY -->
-<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg">
-  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg"
+<!-- HERO IMAGE — ANIMATED "SERGIO" OVERLAY (pinned to commit 928dd720 to bust jsDelivr/camo cache) -->
+<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@928dd720386131a443b95c66fe7f83cbdaa71b68/assets/hero/landing-anim.svg">
+  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@928dd720386131a443b95c66fe7f83cbdaa71b68/assets/hero/landing-anim.svg"
        alt="Landing" style="max-width:100%;border-radius:16px"/>
 </a>
 
