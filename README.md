@@ -17,9 +17,9 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=600&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=600&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE"
-       alt="I BUILD SYSTEMS, NOT JUST SOFTWARE"/>
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=600&lines=A+FREE+SYSTEM+BUILDER+FROM+A+FREE+NATION">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=600&lines=A+FREE+SYSTEM+BUILDER+FROM+A+FREE+NATION"
+       alt="A FREE SYSTEM BUILDER FROM A FREE NATION"/>
 </a>
 
 <p style="max-width:540px;color:#8B98A5;margin:8px auto">
