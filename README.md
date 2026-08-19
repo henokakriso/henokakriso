@@ -11,9 +11,9 @@
 
 <div align="center">
 
-<!-- HERO IMAGE -->
-<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing.jpeg">
-  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing.jpeg"
+<!-- HERO IMAGE — ANIMATED "SERGIO" OVERLAY -->
+<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg">
+  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/hero/landing-anim.svg"
        alt="Landing" style="max-width:100%;border-radius:16px"/>
 </a>
 
