@@ -23,8 +23,11 @@
 </a>
 
 <p style="max-width:540px;color:#8B98A5;margin:8px auto">
-Building interconnected technology systems for education, government, identity,
-transparency, cybersecurity, intelligence and robotics.
+I am a computer scientist, builder, and entrepreneur driven to turn complex ideas
+into real-world technology. I think in systems, explore deeply, and create solutions
+to meaningful problems. Through ARWE, I transform ideas across AI, software,
+cybersecurity, intelligence, and robotics into reality. My ambition is to build
+world-class technology from Ethiopia.
 </p>
 
 <br/>
