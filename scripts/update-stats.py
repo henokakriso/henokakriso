@@ -19,7 +19,7 @@ import urllib.request
 USER = "henokakriso"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets", "github")
 
-ACCENT = "#22D3EE"
+ACCENT = "#EF4444"
 TEXT = "#E6EDF3"
 DIM = "#8B98A5"
 BG = "#10151D"

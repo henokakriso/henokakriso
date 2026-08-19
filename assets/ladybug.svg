@@ -1,0 +1,65 @@
+<svg width="920" height="150" viewBox="0 0 920 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bugBody" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#F87171"/>
+      <stop offset="55%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </radialGradient>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        g { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- faint flight trails -->
+  <path d="M-60 90 C 60 20, 160 120, 260 50 S 460 130, 560 60 S 760 130, 980 70" fill="none" stroke="#EF4444" stroke-width="1" stroke-dasharray="4 12" opacity=".35">
+    <animate attributeName="stroke-dashoffset" from="192" to="0" dur="16s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- ladybug 1 — long winding flight (random-feeling loops) -->
+  <g>
+    <ellipse cx="0" cy="0" rx="13" ry="15" fill="url(#bugBody)" stroke="#7F1D1D" stroke-width="1"/>
+    <circle cx="0" cy="-17" r="6" fill="#111827"/>
+    <path d="M-4 -21 Q -9 -27 -6 -31" fill="none" stroke="#111827" stroke-width="1.4"/>
+    <path d="M4 -21 Q 9 -27 6 -31" fill="none" stroke="#111827" stroke-width="1.4"/>
+    <line x1="0" y1="-17" x2="0" y2="15" stroke="#7F1D1D" stroke-width="2"/>
+    <circle cx="-6" cy="-4" r="2.4" fill="#111827"/>
+    <circle cx="6" cy="-4" r="2.4" fill="#111827"/>
+    <circle cx="-5" cy="6" r="2" fill="#111827"/>
+    <circle cx="5" cy="6" r="2" fill="#111827"/>
+    <circle cx="0" cy="-11" r="1.8" fill="#111827" opacity=".65"/>
+    <circle cx="0" cy="-1" r="18" fill="none" stroke="#EF4444" stroke-opacity=".35">
+      <animate attributeName="r" values="12;20;12" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".45;.05;.45" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <animateMotion dur="17s" repeatCount="indefinite" rotate="auto"
+      path="M-60 90 C 60 20, 160 130, 260 45 S 440 140, 520 60 S 690 135, 780 40 S 930 120, 980 65"/>
+  </g>
+
+  <!-- ladybug 2 — faster, crossing in opposite pattern -->
+  <g opacity=".9">
+    <ellipse cx="0" cy="0" rx="10" ry="12" fill="url(#bugBody)" stroke="#7F1D1D" stroke-width="1"/>
+    <circle cx="0" cy="-13" r="4.5" fill="#111827"/>
+    <path d="M-3 -16 Q -7 -21 -5 -25" fill="none" stroke="#111827" stroke-width="1.1"/>
+    <path d="M3 -16 Q 7 -21 5 -25" fill="none" stroke="#111827" stroke-width="1.1"/>
+    <line x1="0" y1="-13" x2="0" y2="12" stroke="#7F1D1D" stroke-width="1.6"/>
+    <circle cx="-4.5" cy="-2" r="1.9" fill="#111827"/>
+    <circle cx="4.5" cy="-2" r="1.9" fill="#111827"/>
+    <circle cx="-4" cy="5" r="1.6" fill="#111827"/>
+    <circle cx="4" cy="5" r="1.6" fill="#111827"/>
+    <animateMotion dur="11.5s" repeatCount="indefinite" rotate="auto"
+      path="M920 30 C 800 95, 700 10, 600 80 S 430 15, 330 70 S 170 20, 70 80 S -40 40, -80 55"/>
+  </g>
+
+  <!-- ladybug 3 — small explorer drifting diagonally -->
+  <g opacity=".75">
+    <ellipse cx="0" cy="0" rx="7" ry="8.5" fill="url(#bugBody)" stroke="#7F1D1D" stroke-width=".8"/>
+    <circle cx="0" cy="-9" r="3.2" fill="#111827"/>
+    <line x1="0" y1="-9" x2="0" y2="8" stroke="#7F1D1D" stroke-width="1.2"/>
+    <circle cx="-3" cy="0" r="1.4" fill="#111827"/>
+    <circle cx="3" cy="0" r="1.4" fill="#111827"/>
+    <animateMotion dur="8.5s" repeatCount="indefinite" rotate="auto"
+      path="M-40 20 C 120 55, 90 110, 260 85 S 410 35, 520 70 S 690 25, 800 65 S 900 95, 980 40"/>
+  </g>
+</svg>

@@ -28,7 +28,7 @@ PANEL2 = "#141B26"
 LINE = "#1C2430"
 TEXT = "#E6EDF3"
 DIM = "#8B98A5"
-ACCENT = "#22D3EE"
+ACCENT = "#EF4444"
 
 CSS = """
 @keyframes flow { to { stroke-dashoffset: -32; } }
