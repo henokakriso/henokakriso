@@ -91,11 +91,4 @@ transparency, cybersecurity, intelligence and robotics.
 <h1 style="color:#EF4444;font-family:monospace;font-size:64px;margin:18px 0 0">159</h1>
 <p style="font-family:monospace;letter-spacing:4px;color:#8B98A5;font-size:12px;margin:0">CONTRIBUTIONS IN THE LAST YEAR</p>
 
-<br/>
-
-<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/contributions.svg">
-  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/contributions.svg"
-       alt="Contributions heatmap — last year" style="max-width:100%;border-radius:16px"/>
-</a>
-
 </div>
