@@ -50,23 +50,4 @@ transparency, cybersecurity, intelligence and robotics.
        alt="PROJECT ARWE — SYSTEM NETWORK" style="max-width:100%;border-radius:16px"/>
 </a>
 
-<p style="font-family:monospace;letter-spacing:3px;color:#64748B;font-size:11px">PROJECT ARWE — CLICK A PROJECT TO OPEN</p>
-
-<br/>
-
-<table role="presentation">
-<tr>
-<td><a href="https://github.com/henokakriso/Govyx"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/govyx.svg" alt="GOVYX" style="max-width:100%"/></a></td>
-<td><a href="https://github.com/henokakriso/Edunex"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/edunex.svg" alt="EDUNEX" style="max-width:100%"/></a></td>
-<td><a href="https://github.com/henokakriso/Locify"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/locify.svg" alt="LOCIFY" style="max-width:100%"/></a></td>
-<td><a href="https://github.com/henokakriso/TerraChain"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/terrachain.svg" alt="TERRACHAIN" style="max-width:100%"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/henokakriso/Bilen"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/bilen.svg" alt="BILEN" style="max-width:100%"/></a></td>
-<td><a href="https://github.com/henokakriso/Kidane"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/kidane.svg" alt="KIDANE" style="max-width:100%"/></a></td>
-<td><a href="https://github.com/henokakriso/Ozyn"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/ozayn.svg" alt="OZAYN" style="max-width:100%"/></a></td>
-<td><a href="https://github.com/henokakriso/Canivox"><img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/projects/canivox.svg" alt="CANIVOX" style="max-width:100%"/></a></td>
-</tr>
-</table>
-
 </div>
