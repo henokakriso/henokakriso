@@ -74,21 +74,4 @@ transparency, cybersecurity, intelligence and robotics.
 </tr>
 </table>
 
-<br/>
-
-<!-- LIVE STATUS -->
-<h2 style="letter-spacing:8px;font-size:18px;color:#64748B">GITHUB // SYSTEM STATUS</h2>
-
-<h1 style="color:#EF4444;font-family:monospace;font-size:48px;letter-spacing:12px;margin:4px 0">REAL DATA FROM THE GITHUB API</h1>
-
-<a href="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/system-status.svg">
-  <img src="https://cdn.jsdelivr.net/gh/henokakriso/henokakriso@main/assets/github/system-status.svg"
-       alt="GitHub system status" style="max-width:100%;border-radius:16px"/>
-</a>
-
-<br/>
-
-<h1 style="color:#EF4444;font-family:monospace;font-size:64px;margin:18px 0 0">159</h1>
-<p style="font-family:monospace;letter-spacing:4px;color:#8B98A5;font-size:12px;margin:0">CONTRIBUTIONS IN THE LAST YEAR</p>
-
 </div>
