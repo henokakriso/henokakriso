@@ -22,7 +22,7 @@
        alt="A FREE SYSTEM BUILDER FROM A FREE NATION"/>
 </a>
 
-<p style="max-width:540px;color:#8B98A5;margin:8px auto">
+<p style="max-width:600px;color:#8B98A5;margin:8px auto;font-size:15px;font-family:'Courier New',Courier,'Liberation Mono',monospace;letter-spacing:0.5px">
 I am a computer scientist, builder, and entrepreneur driven to turn complex ideas
 into real-world technology. I think in systems, explore deeply, and create solutions
 to meaningful problems. Through ARWE, I transform ideas across AI, software,
